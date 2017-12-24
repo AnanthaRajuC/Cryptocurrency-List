@@ -9,3 +9,4 @@ List of Cryptocurrency Tools
 |<a href="https://currencio.co/" target="_blank" >Currencio</a>|World Currency & Cryptocurrencies Converter.|
 |<a href="https://coinmarketcap.com/" target="_blank" >Coin Market Cap</a>|Cryptocurrency Market Capitalizations.|
 |<a href="https://www.cryptocompare.com/" target="_blank" >Crypto Compare</a>|Crypto comparison website.|
+|<a href="https://shapeshift.io/#/coins" target="_blank" >Shape Shift</a>|Digital asset exchange platform|
