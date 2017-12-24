@@ -14,4 +14,5 @@ List of Cryptocurrency Tools
 |<a href="http://www.cryptocurrencychart.com/" target="_blank" >Crypto Currency Chart</a>|Crypto comparison website.|
 |<a href="https://shapeshift.io/#/coins" target="_blank" >Shape Shift</a>|Digital asset exchange platform|
 |<a href="https://www.tradingview.com/" target="_blank" >Trading View</a>|Online Community of Investors sharing trading ideas with Interactive Graphs and tools.|
+|<a href="http://www.bitcoinrates.in/" target="_blank" >Bitcoin Rates</a>|Display's the bitcoin rates from all bitcoin exchanges available in India.|
 
