@@ -8,3 +8,4 @@ List of Cryptocurrency Tools
 |<a href="https://live.blockcypher.com/" target="_blank" >Block Cypher</a>|Block Chain Explorer.|
 |<a href="https://currencio.co/" target="_blank" >Currencio</a>|World Currency & Cryptocurrencies Converter.|
 |<a href="https://coinmarketcap.com/" target="_blank" >Coin Market Cap</a>|Cryptocurrency Market Capitalizations.|
+|<a href="https://www.cryptocompare.com/" target="_blank" >Crypto Compare</a>|Crypto comparison website.|
