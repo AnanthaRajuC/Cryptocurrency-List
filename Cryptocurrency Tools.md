@@ -10,4 +10,4 @@ List of Cryptocurrency Tools
 |<a href="https://coinmarketcap.com/" target="_blank" >Coin Market Cap</a>|Cryptocurrency Market Capitalizations.|
 |<a href="https://www.cryptocompare.com/" target="_blank" >Crypto Compare</a>|Crypto comparison website.|
 |<a href="https://shapeshift.io/#/coins" target="_blank" >Shape Shift</a>|Digital asset exchange platform|
-|<a href="https://www.tradingview.com/" target="_blank" >Trading View</a>|Online Community of Investors sharing trading ideas.|
+|<a href="https://www.tradingview.com/" target="_blank" >Trading View</a>|Online Community of Investors sharing trading ideas with Interactive Graphs and tools.|
