@@ -6,4 +6,5 @@ List of Cryptocurrency Exchanges
 |----------	|:------	|:------	|
 |<a href="https://btcxindia.com/" target="_blank" >BTCXIndia</a>|India|Crypto token marketplace.|
 |<a href="https://ethexindia.com/" target="_blank" >ETHEXIndia</a>|India|Marketplace for Ethereum tokens.|
+|<a href="https://koinex.in/" target="_blank" >Koinex</a>|India|Multi cryptocurrency exchange.|
 |<a href="https://paxful.com/" target="_blank" >Paxful</a>|USA|Peer to Peer Bitcoin marketplace connecting buyers with sellers.|
