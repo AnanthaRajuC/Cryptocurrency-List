@@ -8,4 +8,7 @@ List of Cryptocurrency Exchanges
 |<a href="https://ethexindia.com/" target="_blank" >ETHEXIndia</a>|India|Marketplace for Ethereum tokens.|
 |<a href="https://koinex.in/" target="_blank" >Koinex</a>|India|Multi cryptocurrency exchange.|
 |<a href="https://paxful.com/" target="_blank" >Paxful</a>|USA|Peer to Peer Bitcoin marketplace connecting buyers with sellers.|
-|<a href="https://hitbtc.com/" target="_blank" >HitBTC</a>| |Global trading platform with multi-currency support. Has markets for trading digital assets, tokens and ICOs and provides a wide range of tools|
+|<a href="https://hitbtc.com/" target="_blank" >HitBTC</a>| |Global trading platform with multi-currency support. Has markets for trading digital assets, tokens and ICOs and provides a wide range of tools.|
+|<a href="https://www.bithumb.com/" target="_blank" >bithumb</a>|Korea|Global trading platform with multi-currency support. Has markets for trading digital assets, tokens and ICOs and provides a wide range of tools.|
+|<a href="https://poloniex.com/" target="_blank" >Poliniex</a>|USA|Digital asset exchange.|
+|<a href="https://www.bitfinex.com/" target="_blank" >Bitfinex</a>||Full-featured spot trading platform for the major cryptocurrencies.|
