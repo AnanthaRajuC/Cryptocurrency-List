@@ -17,3 +17,8 @@ List of Cryptocurrency Exchanges
 |<a href="https://exmo.com/" target="_blank" >EXMO</a>||International Cryptocurrency Exchange.|
 |<a href="https://www.binance.com/" target="_blank" >Binance</a>||Cryptocurrency Exchange.|
 |<a href="https://cex.io/" target="_blank" >CEX.IO</a>||First established as a cloud mining provider, CEX.IO has become a multi-functional cryptocurrency exchange.|
+|<a href="https://yobit.net/en/" target="_blank" >YoBit</a>||Cryptocurrency Exchange.|
+|<a href="https://evercoin.com/" target="_blank" >Evercoin</a>||Cryptocurrency Exchange.|
+|<a href="https://www.okex.com/" target="_blank" >OKEX</a>||Digital asset trading platforms.|
+|<a href="https://coinlink.co.kr/" target="_blank" >Coinlink</a>|Korea|Cryptocurrency exchange.|
+|<a href="https://www.qryptos.com/" target="_blank" >QRYPTOS</a>|Korea|Cryptocurrency exchange & ICO PLATFORM TO LIST AND TRADE TOKENS.|
