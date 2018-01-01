@@ -21,4 +21,7 @@ List of Cryptocurrency Exchanges
 |<a href="https://evercoin.com/" target="_blank" >Evercoin</a>||Cryptocurrency Exchange.|
 |<a href="https://www.okex.com/" target="_blank" >OKEX</a>||Digital asset trading platforms.|
 |<a href="https://coinlink.co.kr/" target="_blank" >Coinlink</a>|Korea|Cryptocurrency exchange.|
-|<a href="https://www.qryptos.com/" target="_blank" >QRYPTOS</a>|Korea|Cryptocurrency exchange & ICO PLATFORM TO LIST AND TRADE TOKENS.|
+|<a href="https://www.qryptos.com/" target="_blank" >QRYPTOS</a>| |Cryptocurrency exchange & ICO PLATFORM TO LIST AND TRADE TOKENS.|
+|<a href="https://bitlish.com/" target="_blank" >Bitlish</a>|United Kingdom|Cryptocurrency exchange.|
+|<a href="https://www.cryptopia.co.nz/" target="_blank" >Cryptopia</a>|New Zealand|Cryptocurrency exchange & Marketplace.|
+|<a href="https://btc-alpha.com/exchange/" target="_blank" >BTC-Alpha</a>||Cryptocurrency exchange.|
