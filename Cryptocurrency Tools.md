@@ -19,4 +19,5 @@ List of Cryptocurrency Tools
 |<a href="https://www.coingecko.com/en" target="_blank" >Coin Gecko</a>|Benchmark's the crypto currencies to determine how valuable a coin is compared to its peers.|
 |<a href="https://coincodex.com/" target="_blank" >Coin Codex</a>|Bitcoin price, ICO release date of an altcoin, or simply ways to follow coins on a watchlist.|
 |<a href="https://bitref.com/" target="_blank" >BitRef</a>|Check Bitcoin Address Balance Tool.|
+|<a href="https://coindemo.io/" target="_blank" >Coin Demo</a>|Visual demonstration of cryptocurrency technologies.|
 
