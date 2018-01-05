@@ -22,4 +22,5 @@ List of Cryptocurrency Tools
 |<a href="https://coindemo.io/" target="_blank" >Coin Demo</a>|Visual demonstration of cryptocurrency technologies.|
 |<a href="http://statoshi.info/" target="_blank" >Satoshi Info</a>|Realtime Bitcoin Node Stats.|
 |<a href="https://github.com/Xel/Blockchain-stuff" target="_blank" >Blockchain stuff</a>|Blockchain and Crytocurrency Resources List on GitHub.|
+|<a href="https://blockstack.org/" target="_blank" >Block Stack</a>|A new internet for decentralized apps where users own their data.|
 
