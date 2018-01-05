@@ -21,4 +21,5 @@ List of Cryptocurrency Tools
 |<a href="https://bitref.com/" target="_blank" >BitRef</a>|Check Bitcoin Address Balance Tool.|
 |<a href="https://coindemo.io/" target="_blank" >Coin Demo</a>|Visual demonstration of cryptocurrency technologies.|
 |<a href="http://statoshi.info/" target="_blank" >Satoshi Info</a>|Realtime Bitcoin Node Stats.|
+|<a href="https://github.com/Xel/Blockchain-stuff" target="_blank" >Blockchain stuff</a>|Blockchain and Crytocurrency Resources List on GitHub.|
 
