@@ -20,4 +20,5 @@ List of Cryptocurrency Tools
 |<a href="https://coincodex.com/" target="_blank" >Coin Codex</a>|Bitcoin price, ICO release date of an altcoin, or simply ways to follow coins on a watchlist.|
 |<a href="https://bitref.com/" target="_blank" >BitRef</a>|Check Bitcoin Address Balance Tool.|
 |<a href="https://coindemo.io/" target="_blank" >Coin Demo</a>|Visual demonstration of cryptocurrency technologies.|
+|<a href="http://statoshi.info/" target="_blank" >Satoshi Info</a>|Realtime Bitcoin Node Stats.|
 
