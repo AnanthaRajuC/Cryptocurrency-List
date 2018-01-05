@@ -23,4 +23,5 @@ List of Cryptocurrency Tools
 |<a href="http://statoshi.info/" target="_blank" >Satoshi Info</a>|Realtime Bitcoin Node Stats.|
 |<a href="https://github.com/Xel/Blockchain-stuff" target="_blank" >Blockchain stuff</a>|Blockchain and Crytocurrency Resources List on GitHub.|
 |<a href="https://blockstack.org/" target="_blank" >Block Stack</a>|A new internet for decentralized apps where users own their data.|
+|<a href="https://bitcoin.stackexchange.com/" target="_blank" >Bitcoin Stack Exchange</a>|Q&A community to learn, share knowledge of Crypto Currencies.|
 
