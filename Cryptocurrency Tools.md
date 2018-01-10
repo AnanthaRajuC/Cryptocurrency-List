@@ -27,5 +27,6 @@ List of Cryptocurrency Tools
 |<a href="https://stats.rsk.co/" target="_blank" >RSK Stats</a>|rsk network stats.|
 |<a href="https://explorer.rsk.co/home" target="_blank" >RSK Explorer</a>|RSK Blockchain Explorer.|
 |<a href="https://ethstats.net/" target="_blank" >Eth Stats</a>|Ethereum Network Stats.|
+|<a href="https://tokenmarket.net/ethereum-address-validator" target="_blank" >Ethereum address validator</a>|Ethereum address validator.|
 |<a href="https://tokenmarket.net/" target="_blank" >Token Market</a>|Trade and research 698 blockchain assets. Organize token sales.|
 
