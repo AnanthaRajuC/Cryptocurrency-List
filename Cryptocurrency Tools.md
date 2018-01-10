@@ -29,4 +29,5 @@ List of Cryptocurrency Tools
 |<a href="https://ethstats.net/" target="_blank" >Eth Stats</a>|Ethereum Network Stats.|
 |<a href="https://tokenmarket.net/ethereum-address-validator" target="_blank" >Ethereum address validator</a>|Ethereum address validator.|
 |<a href="https://tokenmarket.net/" target="_blank" >Token Market</a>|Trade and research 698 blockchain assets. Organize token sales.|
+|<a href="https://blockexplorer.com/" target="_blank" >Block Explorer</a>|Bitcoin Block Explorer is an open source web tool that allows you to view information about blocks, addresses, and transactions on the Bitcoin blockchain.|
 
