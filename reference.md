@@ -1,1 +1,14 @@
 https://www.bitcoincash.org/
+https://www.corda.net/
+https://chainz.cryptoid.info/
+https://miner.nicehash.com/
+https://www.bestbitcoinexchange.io/
+https://bitinfocharts.com/
+https://blockexplorer.com/
+https://www.myetherwallet.com/
+https://www.zcashcommunity.com/markets/
+https://bitcore.io/
+https://www.ardorplatform.org/
+https://my.bitwala.com
+https://www.throughbit.com/
+https://stocktwits.com/
