@@ -31,5 +31,5 @@ List of Cryptocurrency Tools
 |<a href="https://tokenmarket.net/" target="_blank" >Token Market</a>|Trade and research 698 blockchain assets. Organize token sales.|
 |<a href="https://blockexplorer.com/" target="_blank" >Block Explorer</a>|Bitcoin Block Explorer is an open source web tool that allows you to view information about blocks, addresses, and transactions on the Bitcoin blockchain.|
 |<a href="https://cointracking.info/" target="_blank" >CoinTracking</a>|Bitcoin & Digital Currency Portfolio/Tax Reporting.|
-|<a href="https://coincenter.org/" target="_blank" >Coin Center</a>|Non-profit focused on the policy issues facing cryptocurrencies like Bitcoin. |
-
+|<a href="https://coincenter.org/" target="_blank" >Coin Center</a>|Non-profit focused on the policy issues facing cryptocurrencies like Bitcoin.|
+|<a href="https://bitcoin.tax/" target="_blank" >BitcoinTaxes</a>|Calculate Bitcoin Taxes for Capital Gains and Income|
