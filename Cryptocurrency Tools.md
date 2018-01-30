@@ -33,3 +33,4 @@ List of Cryptocurrency Tools
 |<a href="https://cointracking.info/" target="_blank" >CoinTracking</a>|Bitcoin & Digital Currency Portfolio/Tax Reporting.|
 |<a href="https://coincenter.org/" target="_blank" >Coin Center</a>|Non-profit focused on the policy issues facing cryptocurrencies like Bitcoin.|
 |<a href="https://bitcoin.tax/" target="_blank" >BitcoinTaxes</a>|Calculate Bitcoin Taxes for Capital Gains and Income|
+|<a href="https://bitcoinaverage.com/" target="_blank" >BitcoinAverage</a>|Source of historical bitcoin price data|
