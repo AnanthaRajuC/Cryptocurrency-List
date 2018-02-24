@@ -10,6 +10,7 @@ List of Cryptocurrency Code
 |<a href="https://github.com/jpmorganchase/quorum" target="_blank" >Quorum</a>|A permissioned implementation of Ethereum supporting data privacy.|
 |<a href="https://z.cash/" target="_blank" >Zcash</a>|An implementation of the "Zerocash" protocol. Based on Bitcoin's code, it intends to offer a far higher standard of privacy through a sophisticated zero-knowledge proving scheme that preserves confidentiality of transaction metadata.|
 |<a href="https://github.com/rupeedigitalassets/RUPEE" target="_blank" >RUPEE</a>|Decentralized cryptocurrency for India, South Asia and the World.|
+|<a href="https://github.com/NemProject" target="_blank" >Nem</a>|Smart Asset blockchain.|
 
 
 
