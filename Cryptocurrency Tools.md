@@ -35,3 +35,4 @@ List of Cryptocurrency Tools
 |<a href="https://bitcoinaverage.com/" target="_blank" >BitcoinAverage</a>|Source of historical bitcoin price data|
 |<a href="data.bitcoinity.org" target="_blank" >Bitcoinity</a>|Cryptocurrency Stats|
 |<a href="https://ethereumprice.org/" target="_blank" >Ethereum Price</a>|This website is intended to provide a clear summary of Ethereum's current and historical price as well as important updates from the industry.|
+|<a href="http://rupexplorer.com/" target="_blank" >RUPEE Explorer</a>|RUPEE coin block explorer.|
