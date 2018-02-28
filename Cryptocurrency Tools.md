@@ -37,3 +37,4 @@ List of Cryptocurrency Tools
 |<a href="https://ethereumprice.org/" target="_blank" >Ethereum Price</a>|This website is intended to provide a clear summary of Ethereum's current and historical price as well as important updates from the industry.|
 |<a href="http://rupexplorer.com/" target="_blank" >RUPEE Explorer</a>|RUPEE coin block explorer.|
 |<a href="https://bitinfocharts.com/" target="_blank" >BitInfoCharts</a>|Cryptocurrency statistics.|
+|<a href="https://airdropalert.com/" target="_blank" >Airdrop Alerts</a>|Airdrop Alerts.|
