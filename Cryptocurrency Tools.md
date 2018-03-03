@@ -33,7 +33,7 @@ List of Cryptocurrency Tools
 |<a href="https://coincenter.org/" target="_blank" >Coin Center</a>|Non-profit focused on the policy issues facing cryptocurrencies like Bitcoin.|
 |<a href="https://bitcoin.tax/" target="_blank" >BitcoinTaxes</a>|Calculate Bitcoin Taxes for Capital Gains and Income|
 |<a href="https://bitcoinaverage.com/" target="_blank" >BitcoinAverage</a>|Source of historical bitcoin price data|
-|<a href="data.bitcoinity.org" target="_blank" >Bitcoinity</a>|Cryptocurrency Stats|
+|<a href="https://data.bitcoinity.org/markets/volume/30d?c=e&t=b" target="_blank" >Bitcoinity</a>|Cryptocurrency Stats|
 |<a href="https://ethereumprice.org/" target="_blank" >Ethereum Price</a>|This website is intended to provide a clear summary of Ethereum's current and historical price as well as important updates from the industry.|
 |<a href="http://rupexplorer.com/" target="_blank" >RUPEE Explorer</a>|RUPEE coin block explorer.|
 |<a href="https://bitinfocharts.com/" target="_blank" >BitInfoCharts</a>|Cryptocurrency statistics.|
