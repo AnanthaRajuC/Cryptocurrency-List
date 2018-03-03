@@ -3,3 +3,4 @@
 | API Provider	|      Description     	|
 |----------	|:------	|
 |<a href="https://coinmarketcap.com/api/" target="_blank" >CoinMarketCap</a>|Cryptocurrency Market Capitalizations.|
+|<a href="https://data.ripple.com/" target="_blank" >Ripple</a>|Enterprise blockchain solution for global payments.|
