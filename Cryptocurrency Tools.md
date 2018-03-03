@@ -39,3 +39,4 @@ List of Cryptocurrency Tools
 |<a href="https://bitinfocharts.com/" target="_blank" >BitInfoCharts</a>|Cryptocurrency statistics.|
 |<a href="https://airdropalert.com/" target="_blank" >Airdrop Alerts</a>|Airdrop Alerts.|
 |<a href="https://openzeppelin.org/" target="_blank" >OpenZeppelin</a>|Open framework of reusable and secure smart contracts in the Solidity language.|
+|<a href="https://coin.dance/" target="_blank" >Coin Dance</a>|Community-driven Bitcoin statistics and services.
