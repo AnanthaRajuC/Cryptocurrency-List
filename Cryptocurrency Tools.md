@@ -38,3 +38,4 @@ List of Cryptocurrency Tools
 |<a href="http://rupexplorer.com/" target="_blank" >RUPEE Explorer</a>|RUPEE coin block explorer.|
 |<a href="https://bitinfocharts.com/" target="_blank" >BitInfoCharts</a>|Cryptocurrency statistics.|
 |<a href="https://airdropalert.com/" target="_blank" >Airdrop Alerts</a>|Airdrop Alerts.|
+|<a href="https://openzeppelin.org/" target="_blank" >OpenZeppelin</a>|Open framework of reusable and secure smart contracts in the Solidity language.|
