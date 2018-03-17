@@ -4,6 +4,7 @@
 |----------	|:------	|
 |<a href="https://blockexplorer.com/" target="_blank" >Block Explorer</a>|Bitcoin Block Explorer is an open source web tool that allows you to view information about blocks, addresses, and transactions on the Bitcoin blockchain.|
 |<a href="https://explorer.rsk.co/home" target="_blank" >RSK Explorer</a>|RSK Blockchain Explorer.|
+|<a href="https://explorer.bitcoingold.org/insight/" target="_blank" >Bitcoin Gold Explorer</a>|Bitcoin Gold Explorer.|
 |<a href="https://omniexplorer.info/" target="_blank" >Omni Explorer</a>|Omni Blockchain Explorer.|
 |<a href="http://rupexplorer.com/" target="_blank" >RUPEE Explorer</a>|RUPEE coin block explorer.|
 |<a href="https://live.blockcypher.com/" target="_blank" >Block Cypher</a>|Block Chain Explorer.|
