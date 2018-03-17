@@ -18,8 +18,6 @@ Source code of several open-source <a href="https://en.wikipedia.org/wiki/Blockc
 
 ### <a href="https://github.com/AnanthaRajuC/Cryptocurrency-List/blob/master/BlockchainLearning.md" target="_blank" >Blockchain Learning</a>
 
-### <a href="https://github.com/AnanthaRajuC/Cryptocurrency-List/blob/master/BlockchainLearning.md" target="_blank" >Blockchain Learning</a>
-
 ### <a href="https://github.com/AnanthaRajuC/Cryptocurrency-List/blob/master/Cryptocurrency%20Exchanges.md" target="_blank" >Cryptocurrency Exchanges</a>
 
 ### <a href="https://github.com/AnanthaRajuC/Cryptocurrency-List/blob/master/Cryptocurrency%20Wallets.md" target="_blank" >Cryptocurrency Wallets</a>
