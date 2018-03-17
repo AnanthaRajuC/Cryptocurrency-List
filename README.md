@@ -11,8 +11,9 @@ Source code of several open-source <a href="https://en.wikipedia.org/wiki/Blockc
 |<a href="https://github.com/iotaledger" target="_blank" >IOTA</a>|IOTA is a distributed ledger for the Internet of Things. The first ledger with microtransactions without fees as well as secure data transfer. Quantum proof.|
 |<a href="https://github.com/litecoin-project/litecoin" target="_blank" >Litecoin (LTC)</a>|Experimental digital currency that enables instant payments to anyone, anywhere in the world.|
 |<a href="https://github.com/monero-project/monero" target="_blank" >Monero (XMR)</a>|Secure, private, untraceable cryptocurrency.|
-|<a href="https://github.com/NemProject" target="_blank" >Nem</a>|Smart Asset blockchain.|
+|<a href="https://github.com/NemProject" target="_blank" >NEM (XEM)/a>|Smart Asset blockchain.|
 |<a href="https://github.com/neo-project/neo" target="_blank" >Neo</a>|NEO Smart Economy|
+|<a href="https://github.com/OmniLayer/omnicore" target="_blank" >Omni (OMNI)</a>|Platform for creating and trading custom digital assets and currencies.|
 |<a href="https://github.com/jpmorganchase/quorum" target="_blank" >Quorum</a>|A permissioned implementation of Ethereum supporting data privacy.|
 |<a href="https://github.com/ripple/rippled" target="_blank" >Ripple (XRP)</a>|scalable digital asset, enabling real-time global payments anywhere in the world.|
 |<a href="https://github.com/rupeedigitalassets/RUPEE" target="_blank" >RUPEE (RUP)</a>|Decentralized cryptocurrency for India, South Asia and the World.|
