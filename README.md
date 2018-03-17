@@ -9,6 +9,7 @@ Source code of several open-source <a href="https://en.wikipedia.org/wiki/Blockc
 |<a href="https://github.com/ethereum/go-ethereum" target="_blank" >Ethereum (ETH)</a>|Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.|
 |<a href="https://github.com/iotaledger" target="_blank" >IOTA</a>|IOTA is a distributed ledger for the Internet of Things. The first ledger with microtransactions without fees as well as secure data transfer. Quantum proof.|
 |<a href="https://github.com/litecoin-project/litecoin" target="_blank" >Litecoin (LTC)</a>|Experimental digital currency that enables instant payments to anyone, anywhere in the world.|
+|<a href="https://github.com/monero-project/monero" target="_blank" >Monero (XMR)</a>|Secure, private, untraceable cryptocurrency.|
 |<a href="https://github.com/NemProject" target="_blank" >Nem</a>|Smart Asset blockchain.|
 |<a href="https://github.com/neo-project/neo" target="_blank" >Neo</a>|NEO Smart Economy|
 |<a href="https://github.com/jpmorganchase/quorum" target="_blank" >Quorum</a>|A permissioned implementation of Ethereum supporting data privacy.|
