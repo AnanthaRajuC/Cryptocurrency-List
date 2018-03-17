@@ -1,5 +1,5 @@
-# Cryptocurrency-List
-List of Cryptocurrency Code
+# Blockchain based projects' source code
+Source code of several open-source <a href="https://en.wikipedia.org/wiki/Blockchain" target="_blank" >Blockchain</a> based <a href="https://en.wikipedia.org/wiki/Cryptocurrency" target="_blank" >Cryptocurrencies</a>, utility/security tokens and permissioned or permissionless blockchain platforms used to create <a href="https://en.wikipedia.org/wiki/Decentralized_application" target="_blank" >Decentralized application</a>s (dApps).
 
 | Cryptocurrency  	|      Description     	|
 |----------	|:------	|
