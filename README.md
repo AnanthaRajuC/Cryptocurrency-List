@@ -12,6 +12,7 @@ This project adheres to the Contributor Covenant <a href="https://github.com/Ana
 |<a href="https://github.com/ethereum/go-ethereum" target="_blank" >Ethereum (ETH)</a>|Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.|
 |<a href="https://github.com/ethereumproject/go-ethereum" target="_blank" >Ethereum Classic (ETC)</a>|Official Go language implementation of the Ethereum protocol supporting the original chain.|
 |<a href="https://github.com/iotaledger" target="_blank" >IOTA</a>|IOTA is a distributed ledger for the Internet of Things. The first ledger with microtransactions without fees as well as secure data transfer. Quantum proof.|
+|<a href="https://github.com/LiskHQ/lisk" target="_blank" >Lisk (LSK)</a>|crypto-currency and decentralized application platform, written entirely in JavaScript.|
 |<a href="https://github.com/litecoin-project/litecoin" target="_blank" >Litecoin (LTC)</a>|Experimental digital currency that enables instant payments to anyone, anywhere in the world.|
 |<a href="https://github.com/monero-project/monero" target="_blank" >Monero (XMR)</a>|Secure, private, untraceable cryptocurrency.|
 |<a href="https://github.com/NemProject" target="_blank" >NEM (XEM)</a>|Smart Asset blockchain.|
