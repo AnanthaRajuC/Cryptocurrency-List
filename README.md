@@ -41,6 +41,8 @@ A Blockchain Explorer is a website that lets you do the following kinds of thing
 
 ### <a href="https://github.com/AnanthaRajuC/Cryptocurrency-List/blob/master/Cryptocurrency%20Exchanges.md" target="_blank" >Cryptocurrency Exchanges</a>
 
+Cryptocurrency exchanges or digital currency exchanges (DCE) are businesses that allow customers to trade cryptocurrencies or digital currencies for other assets, such as conventional fiat money, or different digital currencies. They can be market makers that typically take the bid/ask spreads as transaction commissions for their services or simply charge fees as a matching platform.
+
 ### <a href="https://github.com/AnanthaRajuC/Cryptocurrency-List/blob/master/Cryptocurrency%20Wallets.md" target="_blank" >Cryptocurrency Wallets</a>
 
 ### <a href="https://github.com/AnanthaRajuC/Cryptocurrency-List/blob/master/Cryptocurrency%20Tools.md" target="_blank" >Cryptocurrency Tools</a>
