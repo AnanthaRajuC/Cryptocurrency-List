@@ -29,6 +29,14 @@ This project adheres to the Contributor Covenant <a href="https://github.com/Ana
 
 ### <a href="https://github.com/AnanthaRajuC/Cryptocurrency-List/blob/master/Blockchain%20Explorers.md" target="_blank" >Blockchain Explorers</a>
 
+A Blockchain Explorer is a website that lets you do the following kinds of things:
+
+* See the blocks that have just been added to the chain, when they’ve been mined, etc.
+* Look up a previously mined block to see what transaction are included in it.
+* Look up a transaction, to see what amounts were sent, and between what addresses.
+* Look up a wallet address, to see what the balance is, and the history of transactions to and from that address.
+* And generally explore your way around the blockchain.
+
 ### <a href="https://github.com/AnanthaRajuC/Cryptocurrency-List/blob/master/BlockchainLearning.md" target="_blank" >Blockchain Learning</a>
 
 ### <a href="https://github.com/AnanthaRajuC/Cryptocurrency-List/blob/master/Cryptocurrency%20Exchanges.md" target="_blank" >Cryptocurrency Exchanges</a>
