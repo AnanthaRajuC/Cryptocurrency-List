@@ -18,6 +18,7 @@ This project adheres to the Contributor Covenant <a href="https://github.com/Ana
 |<a href="https://github.com/NemProject" target="_blank" >NEM (XEM)</a>|Smart Asset blockchain.|
 |<a href="https://github.com/neo-project/neo" target="_blank" >Neo</a>|NEO Smart Economy|
 |<a href="https://github.com/OmniLayer/omnicore" target="_blank" >Omni (OMNI)</a>|Platform for creating and trading custom digital assets and currencies.|
+|<a href="https://github.com/qtumproject/qtum/" target="_blank" >Qtum (QTUM)</a>|Decentralized blockchain project built on Bitcoin's UTXO model, with support for Ethereum Virtual Machine based smart contracts, and secured by a proof of stake consensus model.|
 |<a href="https://github.com/jpmorganchase/quorum" target="_blank" >Quorum</a>|A permissioned implementation of Ethereum supporting data privacy.|
 |<a href="https://github.com/ripple/rippled" target="_blank" >Ripple (XRP)</a>|scalable digital asset, enabling real-time global payments anywhere in the world.|
 |<a href="https://github.com/rupeedigitalassets/RUPEE" target="_blank" >RUPEE (RUP)</a>|Decentralized cryptocurrency for India, South Asia and the World.|
