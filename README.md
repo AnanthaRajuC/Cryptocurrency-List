@@ -25,6 +25,7 @@ This project adheres to the Contributor Covenant <a href="https://github.com/Ana
 |<a href="https://github.com/rupeedigitalassets/RUPEE" target="_blank" >RUPEE (RUP)</a>|Decentralized cryptocurrency for India, South Asia and the World.|
 |<a href="https://github.com/stellar/stellar-core" target="_blank" >Stellar (XLM)</a>|Move Money Across Borders Quickly, Reliably, And For Fractions Of A Penny|
 |<a href="https://github.com/tronprotocol/java-tron" target="_blank" >TRON (TRX)</a>|Blockchain-based decentralized smart protocol and an application development platform.|
+|<a href="https://github.com/wavesplatform/Waves" target="_blank" >Waves (WAVES)</a>|Solutions for storing, trading, managing and issuing your digital assets, easily and securely.|
 |<a href="https://z.cash/" target="_blank" >Zcash (ZEC)</a>|An implementation of the "Zerocash" protocol. Based on Bitcoin's code, it intends to offer a far higher standard of privacy through a sophisticated zero-knowledge proving scheme that preserves confidentiality of transaction metadata.|
 
 ### <a href="https://github.com/AnanthaRajuC/Cryptocurrency-List/blob/master/Blockchain%20Explorers.md" target="_blank" >Blockchain Explorers</a>
