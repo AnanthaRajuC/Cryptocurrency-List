@@ -12,3 +12,5 @@ https://www.ardorplatform.org/
 https://my.bitwala.com
 https://www.throughbit.com/
 https://stocktwits.com/
+https://github.com/distribuyed/index
+https://github.com/eliooses/BTCards
