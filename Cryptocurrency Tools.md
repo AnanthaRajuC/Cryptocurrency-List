@@ -39,3 +39,4 @@ Stats
 |<a href="https://data.bitcoinity.org/markets/volume/30d?c=e&t=b" target="_blank" >Bitcoinity</a>|Cryptocurrency Stats|
 |<a href="https://stats.rsk.co/" target="_blank" >RSK Stats</a>|rsk network stats.|
 |<a href="https://ethstats.net/" target="_blank" >Eth Stats</a>|Ethereum Network Stats.|
+|<a href="http://bitcoinuptime.com/" target="_blank" >Bitcoin Uptime</a>|Bitcoin uptime since its inception on Jan 3 2009 02:54:25 GMT.|
