@@ -1,4 +1,4 @@
-# Blockchain based projects' source code
+# Blockchain based projects' source code & other resources
 Source code of several open-source <a href="https://en.wikipedia.org/wiki/Blockchain" target="_blank" >Blockchain</a> based <a href="https://en.wikipedia.org/wiki/Cryptocurrency" target="_blank" >Cryptocurrencies</a>, utility/security tokens and permissioned or permissionless blockchain platforms used to create <a href="https://en.wikipedia.org/wiki/Decentralized_application" target="_blank" >Decentralized application</a>s (dApps).
 
 This project adheres to the Contributor Covenant <a href="https://github.com/AnanthaRajuC/Cryptocurrency-List/blob/master/CODE_OF_CONDUCT.md" target="_blank" >Code of Conduct</a>. By participating, you are expected to uphold this code.
