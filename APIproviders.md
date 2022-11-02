@@ -7,3 +7,4 @@
 |<a href="https://www.cryptocurrencychart.com/api/methods" target="_blank" >CryptoCurrencyChart</a>|Historical data on Crypto-Currencies.|
 |<a href="https://apiv2.bitcoinaverage.com/#introduction" target="_blank" >BitcoinAverage</a>|Source of digital asset price data in the blockchain industry.|
 |<a href="https://www.covalenthq.com/docs/api/#overview" target="_blank" >Covalent</a>|Covalent provides a unified API to all assets secured by a blockchain network.|
+|<a href="https://pendax.pro" target="_blank" >PENDAX</a>|Javascript SDK for trading on cryptocurrency exchanges like FTX, OKX, Bybit, and more. Supports API data feeds and WebSockets. |
